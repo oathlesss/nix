@@ -39,6 +39,7 @@
           pkgs.slack
           pkgs.uv
           pkgs.python3
+          pkgs.zoxide
           pkgs.imagemagick # Rendering images in neovim
           pkgs.mkalias # This is for making aliasses instead of symlinks to the application folder.
       ];
